@@ -1,4 +1,0 @@
-# Cloberscot.github.io
-
-THIS IS JUST A WEBSITE TO TEST CODE NOT FINAL
-NOT FINAL
